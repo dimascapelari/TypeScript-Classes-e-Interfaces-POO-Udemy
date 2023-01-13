@@ -35,5 +35,4 @@ empresa1.adicionaColaborador(colaborador3);
 //   nome: "Teste",
 //   sobrenome: "Testando",
 // });
-console.log(empresa1);
-empresa1.mostrarColaboradores();
+console.log(empresa1.nome);
