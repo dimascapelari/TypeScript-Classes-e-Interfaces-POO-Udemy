@@ -38,5 +38,4 @@ empresa1.adicionaColaborador(colaborador3);
 //   sobrenome: "Testando",
 // });
 console.log(empresa1);
-
 empresa1.mostrarColaboradores();
